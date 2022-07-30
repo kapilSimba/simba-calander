@@ -11,8 +11,10 @@
   "dependencies": {
     "next": "12.2.3",
     "react": "18.2.0",
+    "react-big-calendar": "^1.5.0",
     "react-calendar": "^3.7.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-table": "^7.8.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.8",
